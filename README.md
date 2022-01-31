@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FartoMan
 - 👀 I’m interested in App Development, learning different programming languages for my self-development, thus cooperating in the development of other devs. 
-- 🌱 I’m currently learning HTML5, JavaScript (obviously). And I'm seeking ("and destroy") to be an expert in Java.
+- 🌱 I’m currently learning HTML5, JavaScript. And I'm seeking ("and destroy") to be an expert in Java.
 - 💞️ I’m looking to collaborate on any project that I might could support.
 - 📫 How to reach me ...
 
